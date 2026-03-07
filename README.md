@@ -1,5 +1,5 @@
 ## Hey there 👋
-I'm Muhammad Hamza, Content Analyst based in Pakistan.
+I'm Muhammad Hamza,
 
 Data Analyst & Python Enthusiast | Turning Patents & IP Data into Insights | Python • SQL • Power BI • ETL • AWS
 
