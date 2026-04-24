@@ -40,7 +40,7 @@ Technical Product Owner | Data-Driven Products | SQL • Python • ETL | Agile 
 
 <p align="center">
 
-<a href="https://linkedin.com/in/hamza-dataanalyst">
+<a href="https://linkedin.com/in/m-hamza-ashfaq">
 <img src="https://img.shields.io/badge/LinkedIn-MuhammadHamza-blue?style=for-the-badge&logo=linkedin">
 </a>
 
